@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc51626aec417cb46a431c0ecd3e5333, type: 3}
+  m_Name: roket
+  m_EditorClassIdentifier: 
+  pref: {fileID: 5938273341237159177, guid: 5d120e8b7453acc478ee71b2e6f2c877, type: 3}
+  dmg: 40
+  lifeTime: 0
+  speed: 5
+  StartForce: 0
+  attackRate: 0.5
+  energyReq: 10
+  isAutoTarget: 1
